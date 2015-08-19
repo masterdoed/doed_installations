@@ -6,8 +6,8 @@ Network-Context: OTN exAstrium DSL NET (guest-net)
 #OS Preparation
 hostname: sfoot-imsec
 username: sfoot
-inital-password: SfootPoc2015!
-encrypted LVM: ask mdoetterl
+inital-password: 
+encrypted LVM: 
 no automatic updates
 
 sudo apt-get update && sudo apt-get upgrade
