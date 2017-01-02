@@ -1,7 +1,7 @@
 #Server-Infos
 VirtualMachine-Host: Virtualbox 5.0
 OS: ubuntu-14.04.3-server-amd64.iso
-Network-Context: OTN exAstrium DSL NET (guest-net)
+Network-Context: local with Internet Access
 
 #OS Preparation
 hostname: sfoot-imsec
