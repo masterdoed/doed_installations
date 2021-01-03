@@ -4,7 +4,7 @@ OS: ubuntu-14.04.3-server-amd64.iso
 Network-Context: local with Internet Access
 
 #OS Preparation
-hostname: sfoot-imsec
+hostname: sfoot
 username: sfoot
 inital-password: 
 encrypted LVM: 
