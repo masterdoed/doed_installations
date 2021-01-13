@@ -10,7 +10,7 @@ os.system("git init")
 os.system("git add .")
 os.system("git commit -m 'repo creation;inital commit'")
 os.system("hub create")
-os.system("git push origin master")
+os.system("git push origin main")
 
 
 
